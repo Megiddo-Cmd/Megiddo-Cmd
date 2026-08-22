@@ -9,7 +9,7 @@ _(메기도의 개발 아카이브에 오신 것을 환영합니다.)_
 _(メギドの開発アーカイブへようこそ。)_
 
 <!-- [Rimuru Image] 림루 사진 -->
-<img src="https://i.imgur.com/9Z3Zk7Z.gif" width="120" alt="Rimuru">
+<img src="assets/rimuru-tempest.gif" width="10000" alt="Rimuru">
 
 > **"안녕! 나는 메기도! 비싸게 만들지 않아!"**  
 > _("Hey! I'm Megiddo! I don't make things expensive!")_  
@@ -18,9 +18,6 @@ _(メギドの開発アーカイブへようこそ。)_
 💻 시스템 설정, 에뮬레이션, 그리고 새로운 기술을 탐구하는 것을 좋아합니다. (전생슬 팬! 💙)  
 _(I love exploring system configurations, emulation, and new technologies. (Tensura Fan!))_  
 _(システム設定、エミュレーション、そして新しい技術を探求するのが好きです。(転スラファン！))_
-
-<!-- [Streak Widget] 잔디 스트릭 위젯 (에러 시 대체 이미지 적용) -->
-<img src="https://streak-stats.demolab.com?user=Megiddo-Cmd&theme=tokyonight&hide_border=true&round_corners=true" onerror="this.onerror=null; this.src='assets/profile.png';" alt="GitHub Streak" />
 
 </div>
 
@@ -58,17 +55,6 @@ _(システム設定、エミュレーション、そして新しい技術を探
   복잡한 것은 빼고, 내가 쓰기 편하고 실용적인 툴과 프로그램을 직접 만듭니다.  
   _(Creating practical tools and programs that are simple and comfortable to use.)_  
   _(複雑なものは省き、自分が使いやすくて実用的なツールやプログラムを直接作ります。)_
-
----
-
-## 📊 깃허브 통계 · GitHub Stats · GitHub統計
-
-<div align="center">
-  <!-- 전체 GitHub 통계 (에러 시 대체 이미지 적용) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Megiddo-Cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" onerror="this.onerror=null; this.src='assets/profile.png';" alt="GitHub Stats" />
-  <!-- 주로 사용하는 언어 통계 (에러 시 대체 이미지 적용) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megiddo-Cmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" onerror="this.onerror=null; this.src='assets/profile.png';" alt="Top Langs" />
-</div>
 
 ---
 
