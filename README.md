@@ -9,7 +9,7 @@ _(메기도의 개발 아카이브에 오신 것을 환영합니다.)_
 _(メギドの開発アーカイブへようこそ。)_
 
 <!-- [Rimuru Image] 림루 사진 -->
-<img src="assets/rimuru-tempest.gif" width="10000" alt="Rimuru">
+<img src="assets/rimuru-tempest.gif" width="5000" alt="Rimuru">
 
 > **"안녕! 나는 메기도! 비싸게 만들지 않아!"**  
 > _("Hey! I'm Megiddo! I don't make things expensive!")_  
