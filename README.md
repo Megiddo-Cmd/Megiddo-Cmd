@@ -9,15 +9,15 @@ _(메기도의 개발 아카이브에 오신 것을 환영합니다.)_
 _(メギドの開発アーカイブへようこそ。)_
 
 <!-- [Rimuru Image] 림루 사진 -->
-<img src="assets/rimuru-tempest.gif" width="5000" alt="Rimuru">
+<img src="assets/rimuru-tempest.gif" width="200" alt="Rimuru">
 
 > **"안녕! 나는 메기도! 비싸게 만들지 않아!"**  
 > _("Hey! I'm Megiddo! I don't make things expensive!")_  
 > _(「やあ！私はメギドだ！高く作ったりしない！」)_
 
-💻 시스템 설정, 에뮬레이션, 그리고 새로운 기술을 탐구하는 것을 좋아합니다. (전생슬 팬! 💙)  
-_(I love exploring system configurations, emulation, and new technologies. (Tensura Fan!))_  
-_(システム設定、エミュレーション、そして新しい技術を探求するのが好きです。(転スラファン！))_
+🇰🇷 대한민국 개발자 | 아직 코딩은 서툴지만, 시스템 설정, 에뮬레이션, 그리고 새로운 기술을 탐구하는 것을 좋아합니다. (전생슬 팬! 💙)  
+_(Korean developer | Still clumsy at coding, but I love exploring system configurations, emulation, and new technologies. (Tensura Fan!))_  
+_(韓国のデベロッパー | まだコーディングは不慣れですが、システム設定、エミュレーション、そして新しい技術を探求するのが好きです。(転スラファン！))_
 
 </div>
 
