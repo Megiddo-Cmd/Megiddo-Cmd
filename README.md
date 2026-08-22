@@ -20,7 +20,7 @@ _(I love exploring system configurations, emulation, and new technologies. (Tens
 _(システム設定、エミュレーション、そして新しい技術を探求するのが好きです。(転スラファン！))_
 
 <!-- [Streak Widget] 잔디 스트릭 위젯 (에러 시 대체 이미지 적용) -->
-<img src="https://streak-stats.demolab.com?user=Megiddo-Cmd&theme=tokyonight&hide_border=true&round_corners=true" onerror="this.onerror=null; this.src='assets/error.png';" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Megiddo-Cmd&theme=tokyonight&hide_border=true&round_corners=true" onerror="this.onerror=null; this.src='assets/profile.png';" alt="GitHub Streak" />
 
 </div>
 
@@ -65,9 +65,9 @@ _(システム設定、エミュレーション、そして新しい技術を探
 
 <div align="center">
   <!-- 전체 GitHub 통계 (에러 시 대체 이미지 적용) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Megiddo-Cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" onerror="this.onerror=null; this.src='assets/error.png';" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Megiddo-Cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" onerror="this.onerror=null; this.src='assets/profile.png';" alt="GitHub Stats" />
   <!-- 주로 사용하는 언어 통계 (에러 시 대체 이미지 적용) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megiddo-Cmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" onerror="this.onerror=null; this.src='assets/error.png';" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megiddo-Cmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" onerror="this.onerror=null; this.src='assets/profile.png';" alt="Top Langs" />
 </div>
 
 ---
